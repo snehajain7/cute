@@ -1,0 +1,49 @@
+body{
+    background-image:url(back.jpg);
+    background-size: 500px;
+}
+h1 {
+    font-size: 4rem;
+    color: #084d64;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+  
+  }
+  
+  footer {
+    color: black;
+    font-family: sans-serif;
+  }
+  .im{
+    height: 20rem;
+    width: 20rem;
+  }
+  
+  .Youcute{
+    display: inline-block;
+    width: 150px; /* Set a fixed width */
+    height: 150px; /* Set a fixed height */
+    margin: 10px; /* Space between the boxes */
+    margin-bottom: 400px;
+}
+.Younotcute{
+    
+    width: 150px; /* Set a fixed width */
+    height: 150px; /* Set a fixed height */
+    margin: 10px; /* Space between the boxes */
+    margin-bottom: 300px;}
+.but{
+  background: linear-gradient(to right, #ff7e5f, #feb47b); /* Gradient background */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 16px;
+  text-align: center;
+  display: inline-block;
+    
+}
+
+
+  
